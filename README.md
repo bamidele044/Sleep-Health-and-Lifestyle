@@ -37,7 +37,7 @@ The analysis results are summarized as follows:
 4. Normal-weight individuals exhibit the highest sleep duration and quality (1.7K and 1.6K total, respectively). Overweight individuals have moderate values (1.0K), whereas obese individuals report the lowest sleep duration and quality (0.1K). This highlights the impact of BMI on sleep patterns.
 5. The analysis shows that normal-weight individuals have the lowest average heart rate (68.98 bpm), followed by overweight individuals (70.95 bpm), while obese individuals have the highest (84.30 bpm). This reinforces the known relationship between BMI and cardiovascular health.
 
-###### ![Screenshot (88)](https://github.com/user-attachments/assets/698f7056-d6cc-4199-aaa9-7f4dafd18fce)
+<img src="https://github.com/user-attachments/assets/698f7056-d6cc-4199-aaa9-7f4dafd18fce" width="650" height="300" alt="image">
 
 ### Recommendations
 
