@@ -8,6 +8,7 @@
 - [Conclusion](#conclusion)
 
 ### Project Overview
+---
 This project aims to analyze the Sleep Health and Lifestyle dataset to identify patterns and trends related to stress levels, sleep quality, physical activity, BMI, and heart rate. The objective is to extract meaningful insights that can help improve overall well-being.
 
 ### Data Source
@@ -35,6 +36,8 @@ The analysis results are summarized as follows:
 3. Individuals without sleep disorders report the highest physical activity levels (12.7K total), whereas those with sleep apnea and insomnia engage in significantly lower levels of physical activity (5.8K and 3.6K, respectively). This suggests a potential link between physical activity and sleep health.
 4. Normal-weight individuals exhibit the highest sleep duration and quality (1.7K and 1.6K total, respectively). Overweight individuals have moderate values (1.0K), whereas obese individuals report the lowest sleep duration and quality (0.1K). This highlights the impact of BMI on sleep patterns.
 5. The analysis shows that normal-weight individuals have the lowest average heart rate (68.98 bpm), followed by overweight individuals (70.95 bpm), while obese individuals have the highest (84.30 bpm). This reinforces the known relationship between BMI and cardiovascular health.
+
+###### ![Screenshot (88)](https://github.com/user-attachments/assets/698f7056-d6cc-4199-aaa9-7f4dafd18fce)
 
 ### Recommendations
 
